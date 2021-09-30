@@ -23,8 +23,8 @@ substitutions:
   phone_relay_inverted: 'true'  # Set to 'false' if you have NO phone relay
 
   # Wifi credentials
-  wifi_ssid: "-----"
-  wifi_password: ""
+  wifi_ssid: "BELKA_2.4"
+  wifi_password: "00000000"
   ap_ssid: "Domofon"
   ap_password: "1234567890"
 
